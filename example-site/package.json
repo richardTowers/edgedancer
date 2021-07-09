@@ -1,0 +1,11 @@
+{
+  "name": "edgedancer-example-site",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0"
+  }
+}
