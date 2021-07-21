@@ -34,7 +34,7 @@ Comparison of edge computing platforms
 | Akamai EdgeWorkers | V8 Isolates | JavaScript | ✅ (EdgeKV) | |
 | CloudFlare Workers | V8 Isolates | JavaScript | ✅ (Workers KV) | |
 | Fastly (classic) | Varnish | VCL | ✅ (edge dictionaries) | |
-| Fastly (compute@edge) | WASM / Lucet | Rust, AssemblyScript | ✅ (edge dictionaries) | |
+| Fastly (compute@edge) | WASM / Lucet | Rust, AssemblyScript, JavaScript | ✅ (edge dictionaries) | |
 | Fly | Firecracker | Any | ✅ (multi-region postgres) | |
 
 _Got another edge computing platform you think we should include? Let us know by raising an issue._
